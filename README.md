@@ -51,5 +51,5 @@ My primary focus is on consistency and independence (coding without full relianc
 ---
 
 <div align="center">
-  <p>Connect with me on <a href="[https://www.linkedin.com/in/joy-muchangi/]">LinkedIn</a> or feel free to reach out via email! <br> Let's build something great!</p>
+  <p>Connect with me on <a href="https://www.linkedin.com/in/joy-muchangi/">LinkedIn</a> or feel free to reach out via email! <br> Let's build something great!</p>
 </div>
