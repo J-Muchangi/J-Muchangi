@@ -45,7 +45,6 @@ These are my current focus areas, demonstrating the **end-to-end ML lifecycle** 
 
 My primary focus is on consistency and independence (coding without full reliance on AI/tutorials). You'll see a steady stream of commits here for:
 
--   Completing one DSA problem (Medium difficulty) 3x a week.
 -   Pushing code changes for my primary ML project daily/weekly.
 
 ---
